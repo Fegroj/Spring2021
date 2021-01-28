@@ -1,0 +1,7 @@
+v 4
+file . "a.vhd" "ae76ac9668372c2a7a3b551b4e6008db80e985f7" "20210125220855.982":
+  entity and1 at 1( 0) + 0 on 25;
+  architecture behavior of and1 at 9( 94) + 0 on 26;
+file . "tand1.vhd" "a12e51344ba4f12b5d49de477422cb96b6148d0d" "20210125221144.748":
+  entity tand1 at 1( 0) + 0 on 27;
+  architecture a of tand1 at 4( 32) + 0 on 28;

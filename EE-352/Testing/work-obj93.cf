@@ -1,0 +1,4 @@
+v 4
+file . "n0.vhd" "0f86cabf6ce7e8f8b80d07c5110e4f3df07e3487" "20210125032928.928":
+  entity n0 at 1( 0) + 0 on 4;
+  architecture a of n0 at 4( 25) + 0 on 4;
